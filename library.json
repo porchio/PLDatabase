@@ -1,1 +1,1 @@
-[]
+[{"Name":"Unknown #1","Notes":"GAL22V10","DeviceType":"20 Pin","PinCount":20,"Board":"Arduino","Hash":"eaa05583b5ed79f960746bab981ac034094c7898591761637100d43c00f67b16","RecipeId":"7c824c7d6e7272dfe6aee39c15ea3ede535226c3ee1a5d90af85f11041114bc8","VectorCount":512,"Exhaustive":true,"Clocked":false,"InputPins":[2,3,4,5,6,7,8,9,11],"OutputPins":[12,13,14,15,16,17,18,19],"ClockPins":[1],"CreatedUtc":"2026-07-11 17:45:26","Source":null}]
